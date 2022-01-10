@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.7.6
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @chakra-ui/system@1.9.2
+  - @chakra-ui/provider@1.7.6
+  - @chakra-ui/skeleton@1.2.6
+
 ## 1.7.5
 
 ### Patch Changes
